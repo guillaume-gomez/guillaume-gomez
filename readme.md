@@ -206,7 +206,6 @@
 
 
 ## Stats:
-<div>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
   </p>
@@ -218,7 +217,10 @@
   <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaume-gomez&theme=city-lights" alt="guillaume-gomez" />
   </p>
-</div>
+
+  <br/>
+      
+__Notes__ : Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Achievements:
 
