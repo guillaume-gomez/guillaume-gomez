@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate fullstack developer</h3>
 
+
+
 ### :technologist: I'm currently working on:
 
 - React JS, Ruby on Rails, and Boostrap 4
@@ -23,13 +25,13 @@
 - Devops
 
 ### Outside of coding I enjoy:
+- Listening Music 🎧 
+- Watching movies 🎦 📺
+- Playing video games 🎮 
+- Doing Sport ⚽ 🏃‍♂️ 🎾 🏊‍♂️ 🏋️‍♂️
 
-- Playing video games :video_game:
-- Listening Music :skateboard:
-- Doing Sport :bowling:
 
-
-### Languages and Tools:
+## Languages and Tools:
 
 #### Programming Languages:
 
@@ -202,7 +204,7 @@
 
 
 
-### Stats:
+## Stats:
 <div>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
@@ -217,13 +219,19 @@
   </p>
 </div>
 
-### Achievements:
+## Achievements:
+
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez&theme=nord&no-frame=true&column=3&margin-w=15&margin-h=15" alt="guillaume-gomez" /></a>
   </p>
 
+---
+
 ### Connect with me:
+
+</br>
+
   <p align="left">
     <a href="https://twitter.com/zemog-emualliug" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemog-emualliug" height="30" width="40" />
