@@ -4,8 +4,9 @@
     <img src="https://github.com/guillaume-gomez/guillaume-gomez/blob/master/assets/hi.gif" width="30px"> I'm Guillaume Gomez
 </h1>
 
-<h3 align="center">A passionate fullstack developer</h3>
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+developper;Junior+Manager;Video+Game+Programmer+Enthusiast&width=500&height=100""></a>
+</p>
 
 
 ### :technologist: I'm currently working on:
