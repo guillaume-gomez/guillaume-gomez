@@ -35,7 +35,7 @@
 ##  🛠️ Languages and Tools:
 
 #### Programming Languages:
-
+<details> 
 <table>
   
   <tr>
@@ -243,7 +243,7 @@
   </tr>
 
 </table>
-
+</details> 
 
 ## 📊 Stats:
  <p>
@@ -270,18 +270,3 @@ __Notes__ : Top languages is only a metric of the languages my public code consi
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez&theme=nord&no-frame=true&column=4&margin-w=5&margin-h=5" alt="guillaume-gomez" /></a>
   </p>
-
-## 🙋‍♀️ Connect with me:
-
-  <p align="left">
-    <a href="https://twitter.com/zemog-emualliug" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemog-emualliug" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/guillaume-gomez-252a14a3" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-gomez-252a14a3" height="30" width="40" />
-    </a>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guillaume-gomez&label=Profile%20views&color=0e75b6&style=flat" alt="guillaume-gomez" />
-</p>
