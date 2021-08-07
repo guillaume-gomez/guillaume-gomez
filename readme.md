@@ -25,14 +25,14 @@
 - Erlang
 - Devops
 
-### Outside of coding I enjoy:
+### ✈️ Outside of coding I enjoy:
 - Listening Music 🎧 
 - Watching movies 🎦 📺
 - Playing video games 🎮 
 - Doing Sport ⚽ 🏃‍♂️ 🎾 🏊‍♂️ 🏋️‍♂️
 
 
-## Languages and Tools:
+##  🛠️ Languages and Tools:
 
 #### Programming Languages:
 
@@ -205,7 +205,7 @@
 
 
 
-## Stats:
+## 📊 Stats:
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
   </p>
@@ -222,7 +222,7 @@
       
 __Notes__ : Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-## Achievements:
+## 🔥 Achievements:
 
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -231,7 +231,7 @@ __Notes__ : Top languages is only a metric of the languages my public code consi
 
 ---
 
-### Connect with me:
+## 🙋‍♀️ Connect with me:
 
 </br>
 
