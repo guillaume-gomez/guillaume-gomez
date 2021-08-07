@@ -140,11 +140,8 @@
   </a>
 </p>
 
-### Stats
-<div style="
-    display: flex;
-    flex-direction: column;
-">
+### Stats:
+<div>
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
   </p>
@@ -158,13 +155,13 @@
   </p>
 </div>
 
-### Achievements
+### Achievements:
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez" alt="guillaume-gomez" /></a>
   </p>
 
-### Connect with me
+### Connect with me:
   <p align="left">
     <a href="https://twitter.com/zemog-emualliug" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemog-emualliug" height="30" width="40" />
