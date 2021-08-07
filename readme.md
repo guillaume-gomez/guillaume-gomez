@@ -31,11 +31,13 @@
 - Playing video games 🎮 
 - Doing Sport ⚽ 🏃‍♂️ 🎾 🏊‍♂️ 🏋️‍♂️
 
-
+## 😃 More about me  (Expand to View) 
+<details>     
+      
 ##  🛠️ Languages and Tools:
 
 #### Programming Languages:
-<details> 
+ 
 <table>
   
   <tr>
@@ -243,7 +245,6 @@
   </tr>
 
 </table>
-</details> 
 
 ## 📊 Stats:
  <p>
@@ -270,3 +271,4 @@ __Notes__ : Top languages is only a metric of the languages my public code consi
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez&theme=nord&no-frame=true&column=4&margin-w=5&margin-h=5" alt="guillaume-gomez" /></a>
   </p>
+</details> 
