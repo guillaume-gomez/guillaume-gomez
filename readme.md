@@ -33,8 +33,8 @@
 
 #### Programming Languages:
 
-<a href="https://elixir-lang.org" target="_blank" style="background: blue;">
-  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40" style="border-radius: 5px;border: 2px solid green;background: blue;max-width:100%;"/>
+<a href="https://elixir-lang.org" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/>
 </a>
 <a href="https://www.erlang.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/>
@@ -220,7 +220,7 @@
 ### Achievements:
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez" alt="guillaume-gomez" /></a>
+      <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez&theme=nord&no-frame=true&column=3&margin-w=15&margin-h=15" alt="guillaume-gomez" /></a>
   </p>
 
 ### Connect with me:
