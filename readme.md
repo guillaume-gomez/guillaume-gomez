@@ -6,23 +6,27 @@
 
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=guillaume-gomez&label=Profile%20views&color=0e75b6&style=flat" alt="guillaume-gomez" />
-</p>
+### :technologist: I'm currently working on:
 
-- 👨‍💻 All of my projects are available at [guillaume-gomez.github.io](guillaume-gomez.github.io)
+- React JS, Ruby on Rails, and Boostrap 4
+- Last year, I worked with Graphql (GraphiQL), Typescript and Material UI
 
-- 📫 How to reach me **guillaume.gomez846@gmail.com**
+### :nerd_face: I'm currently learning:
 
-<h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://twitter.com/zemog-emualliug" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemog-emualliug" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/guillaume-gomez-252a14a3" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-gomez-252a14a3" height="30" width="40" />
-    </a>
-</p>
+- Rust
+- Improving in C#
+
+### :thinking: I want to learn:
+
+- Elixir
+- Erlang
+
+### Outside of coding I enjoy:
+
+- Playing video games :video_game:
+- Listening Music :skateboard:
+- Doing Sport :bowling:
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -136,17 +140,40 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" /></p>
+### Stats
+<div style="
+    display: flex;
+    flex-direction: column;
+">
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
+  </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillaume-gomez&show_icons=true&locale=en&theme=nord" alt="guillaume-gomez" /></p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillaume-gomez&show_icons=true&locale=en&theme=nord" alt="guillaume-gomez" />
+  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaume-gomez&theme=city-lights" alt="guillaume-gomez" /></p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaume-gomez&theme=city-lights" alt="guillaume-gomez" />
+  </p>
+</div>
 
-
-<h3 align="left">
-  Achievements
+### Achievements
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=guillaume-gomez" alt="guillaume-gomez" /></a>
   </p>
-</h3>
+
+### Connect with me
+  <p align="left">
+    <a href="https://twitter.com/zemog-emualliug" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zemog-emualliug" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/guillaume-gomez-252a14a3" target="blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/guillaume-gomez-252a14a3" height="30" width="40" />
+    </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=guillaume-gomez&label=Profile%20views&color=0e75b6&style=flat" alt="guillaume-gomez" />
+</p>
