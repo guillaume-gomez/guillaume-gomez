@@ -247,21 +247,22 @@
 </table>
 
 ## 📊 Stats:
- <p>
-    <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
-  </p>
-
-<!-- 
-      <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=guillaume-gomez&show_icons=true&locale=en&theme=nord" alt="guillaume-gomez" />
-  </p>
  
--->      
-  <p>
-    <img  height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaume-gomez&theme=city-lights" alt="guillaume-gomez" />
-  </p>
+  <span>
+    <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=guillaume-gomez&show_icons=true&locale=en&theme=nord" alt="guillaume-gomez" />
+  </span>
+      
+ <span>
+    <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
+  </span>
+      
+<div align="center">
 
-  <br/>
+  <span >
+    <img  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=guillaume-gomez&theme=city-lights" alt="guillaume-gomez" />
+  </span>
+</div>    
+<br>
       
 __Notes__ : Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
