@@ -249,11 +249,11 @@
 ## 📊 Stats:
  
   <span>
-    <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=guillaume-gomez&show_icons=true&locale=en&theme=nord" alt="guillaume-gomez" />
+    <img  height="180px" src="https://github-readme-stats.vercel.app/api?username=guillaume-gomez&show_icons=true&locale=en&theme=nord" alt="guillaume-gomez" />
   </span>
       
  <span>
-    <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
+    <img  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillaume-gomez&show_icons=true&locale=en&layout=compact&theme=nord" alt="guillaume-gomez" />
   </span>
       
 <div align="center">
