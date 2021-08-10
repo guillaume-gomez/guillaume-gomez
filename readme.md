@@ -11,8 +11,8 @@
 
 ### :technologist: I'm currently working on:
 
-- React JS, Ruby on Rails, and Boostrap 4
-- Last year, I worked with Graphql (GraphiQL), Typescript and Material UI
+- React JS (in Typescript), Ruby on Rails, and Boostrap 4
+- Last year, I worked with Graphql (GraphiQL) and Material UI
 
 ### :nerd_face: I'm currently learning:
 
