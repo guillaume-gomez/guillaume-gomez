@@ -1,7 +1,7 @@
 
 <h1 align="center">
     Hi
-    <img src="https://github.com/guillaume-gomez/guillaume-gomez/blob/master/assets/hi.gif" width="32px"> I'm Guillaume Gomez
+    <img src="https://github.com/guillaume-gomez/guillaume-gomez/blob/master/assets/hi.gif" width="40" height="40"> I'm Guillaume Gomez
 </h1>
 
 <p align="center">
