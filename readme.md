@@ -13,7 +13,9 @@
 <table>
     <tr>
         <td>
-           <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />
+           <a href="../../../squared-words">
+            <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />   
+           </a>
         </td>
         <td>
             <img src="https://github.com/guillaume-gomez/shred-image/blob/main/previews/lalaland.png?raw=true" alt="shred-image" />
