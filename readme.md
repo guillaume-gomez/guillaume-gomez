@@ -10,18 +10,15 @@
 
 
 ### :technologist: I'm currently working on:
-
-- Symfony web server with some parts in React JS (in Typescript)
+- An Ruby on Rails monolith with both Rest and Graphql API (and bunch of react)
+- 1 year ago, Symfony web server with some parts in React JS (in Typescript)
 - 2 years ago, React JS (in Typescript), Ruby on Rails, and Boostrap 4
-- 3 years ago, I worked with Graphql (GraphiQL) and Material UI
 
 ### :nerd_face: I'm currently learning:
-
 - Rust
-- Improving in C#
+- Improving in C# (to be more efficiant with Unity)
 
 ### :thinking: I want to learn:
-
 - Elixir
 - Erlang
 - Devops
