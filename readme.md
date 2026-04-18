@@ -28,6 +28,12 @@
 <img width="790" height="720" alt="426102477-369ff84a-2efc-4375-9181-4adbbcda395b" src="https://github.com/user-attachments/assets/db550c9b-b99d-4253-9e9f-b706f1dd888c" />
 <img src="https://github.com/guillaume-gomez/downWellCopycat/blob/master/preview.png?raw=true" width="50%" />
 <img width="332" height="512" alt="Capture d’écran 2026-04-18 à 15 32 20" src="https://github.com/user-attachments/assets/b67c607e-a4aa-4b71-90eb-ba11960da03f" />
+<img src="https://github.com/guillaume-gomez/woven-images/blob/main/examples/films/result2.jpeg?raw=true" />
+<img src="https://github.com/guillaume-gomez/Rough-JS-x-Phaser/blob/master/preview-phaser.png?raw=true" />
+<img width="549" height="499" alt="example of random crosses" src="https://github.com/user-attachments/assets/7c1d2cb0-7628-41ab-b2c1-e83b6b150164" />
+<img href="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
+<img href="https://github.com/guillaume-gomez/MathGame/blob/master/resReadme/img-1.png?raw=true" />
+
 
 ## Beside, Profesionaly
 
