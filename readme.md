@@ -12,7 +12,7 @@
 
 <table>
     <tr>
-        <td>
+        <td width="50%">
            <a href="../../../squared_words">
             <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />   
            </a>
