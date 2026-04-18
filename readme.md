@@ -13,68 +13,98 @@
 <table>
     <tr>
         <td>
-           <a href="../../../squared-words">
+           <a href="../../../squared_words">
             <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />   
            </a>
         </td>
         <td>
-            <img src="https://github.com/guillaume-gomez/shred-image/blob/main/previews/lalaland.png?raw=true" alt="shred-image" />
+            <a href="../../../shred-image">
+                <img src="https://github.com/guillaume-gomez/shred-image/blob/main/previews/lalaland.png?raw=true" alt="shred-image" />
+            </a>
         </td>
     </tr>
     <tr>
         <td>
-           <img alt="426102477-369ff84a-2efc-4375-9181-4adbbcda395b" src="https://github.com/user-attachments/assets/db550c9b-b99d-4253-9e9f-b706f1dd888c" alt="embodiment"/>
+           <a href="../../../embodiment">
+               <img alt="426102477-369ff84a-2efc-4375-9181-4adbbcda395b" src="https://github.com/user-attachments/assets/db550c9b-b99d-4253-9e9f-b706f1dd888c" alt="embodiment"/>
+           </a>
         </td>
         <td>
-            <img width="741" height="669" alt="Capture d’écran 2025-10-01 à 09 36 39" src="https://github.com/user-attachments/assets/4540d0b7-c489-4868-b9cc-8a0294c15a3d" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-           <img width="789" height="796" alt="daria" src="https://github.com/user-attachments/assets/374286ae-53d2-4fa3-9438-78507afc5c20" />
-        </td>
-        <td>
-            <img alt="animate-name" href="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
+            <a href="../../../mozaic-size">
+                <img width="741" height="669" alt="Capture d’écran 2025-10-01 à 09 36 39" src="https://github.com/user-attachments/assets/4540d0b7-c489-4868-b9cc-8a0294c15a3d" />
+            </a>
         </td>
     </tr>
     <tr>
         <td>
-           <img href="https://github.com/guillaume-gomez/MathGame/blob/master/resReadme/img-1.png?raw=true"  />
+            <a href="../../../rubicks-image">
+                <img width="789" height="796" alt="daria" src="https://github.com/user-attachments/assets/374286ae-53d2-4fa3-9438-78507afc5c20" />
+            </a>
         </td>
         <td>
-            <img src="https://github.com/guillaume-gomez/layers/blob/main/Examples/pourcentageDePoint2.png?raw=true"  alt="layers"/>
+            <a href="../../../AnimateName">
+                <img alt="animate-name" src="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
+            </a>
         </td>
     </tr>
     <tr>
         <td>
-           <img src="https://github.com/guillaume-gomez/to-pointillism/blob/main/samples/to-pointillism.jpeg?raw=true" alt="to-pointillism" />
+            <a href="../../../MathGame">
+               <img src="https://github.com/guillaume-gomez/MathGame/blob/master/resReadme/img-1.png?raw=true"  />
+            </a>
         </td>
         <td>
-            <img src="https://github.com/guillaume-gomez/mondrian-verse/blob/main/example3d.png?raw=true" alt="mondrian" />
+            <a href="../../../layers">
+                <img src="https://github.com/guillaume-gomez/layers/blob/main/Examples/pourcentageDePoint2.png?raw=true"  alt="layers"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="../../../to-pointillism">
+               <img src="https://github.com/guillaume-gomez/to-pointillism/blob/main/samples/to-pointillism.jpeg?raw=true" alt="to-pointillism" />
+            </a>
+        </td>
+        <td>
+            <a href="../../../mondrian-verse">
+                <img src="https://github.com/guillaume-gomez/mondrian-verse/blob/main/example3d.png?raw=true" alt="mondrian" />
+            </a>
         </td>
     </tr>
      <tr>
         <td>
-           <img src="https://github.com/guillaume-gomez/downWellCopycat/blob/master/preview.png?raw=true" alt="downwell" />
+            <a href="../../../downWellCopycat">
+               <img src="https://github.com/guillaume-gomez/downWellCopycat/blob/master/preview.png?raw=true" alt="downwell" />
+            </a>
         </td>
         <td>
-            <img alt="voxel-three" src="https://github.com/user-attachments/assets/b67c607e-a4aa-4b71-90eb-ba11960da03f" />
-        </td>
-    </tr>
-    <tr>
-        <td>
-           <img src="https://github.com/guillaume-gomez/woven-images/blob/main/examples/films/result2.jpeg?raw=true" />
-        </td>
-        <td>
-            <img src="https://github.com/guillaume-gomez/Rough-JS-x-Phaser/blob/master/preview-phaser.png?raw=true" />
+            <a href="../../../voxel-three">
+                <img alt="voxel-three" src="https://github.com/user-attachments/assets/b67c607e-a4aa-4b71-90eb-ba11960da03f" />
+            </a>
         </td>
     </tr>
     <tr>
         <td>
-           <img alt="example of random crosses" src="https://github.com/user-attachments/assets/7c1d2cb0-7628-41ab-b2c1-e83b6b150164" />
+            <a href="../../../woven-images">
+               <img src="https://github.com/guillaume-gomez/woven-images/blob/main/examples/films/result2.jpeg?raw=true" />
+            </a>
         </td>
         <td>
-            <img alt="animate-name" href="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
+            <a href="../../..//Rough-JS-x-Phaser">
+                <img src="https://github.com/guillaume-gomez/Rough-JS-x-Phaser/blob/master/preview-phaser.png?raw=true" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="../../../random-crosses">
+               <img alt="example of random crosses" src="https://github.com/user-attachments/assets/7c1d2cb0-7628-41ab-b2c1-e83b6b150164" />
+            </a>
+        </td>
+        <td>
+            <a href="../../../animate-name">
+                <img alt="animate-name" src="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
+            </a>
         </td>
     </tr>
     
