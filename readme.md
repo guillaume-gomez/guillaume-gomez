@@ -9,7 +9,37 @@
 </p>
 
 ## I spend my spare time to try to make art with lines of code
+
+
+<img href="https://github.com/guillaume-gomez/MathGame/blob/master/resReadme/img-1.png?raw=true"  />
+<img src="https://github.com/guillaume-gomez/layers/blob/main/Examples/pourcentageDePoint2.png?raw=true"  alt="layers"/>
+<img src="https://github.com/guillaume-gomez/to-pointillism/blob/main/samples/to-pointillism.jpeg?raw=true" alt="to-pointillism" />
+<img src="https://github.com/guillaume-gomez/mondrian-verse/blob/main/example3d.png?raw=true" alt="mondrian" />
+<img src="https://github.com/guillaume-gomez/downWellCopycat/blob/master/preview.png?raw=true" alt="downwell" />
+<img alt="voxel-three" src="https://github.com/user-attachments/assets/b67c607e-a4aa-4b71-90eb-ba11960da03f" />
+<img src="https://github.com/guillaume-gomez/woven-images/blob/main/examples/films/result2.jpeg?raw=true" />
+<img src="https://github.com/guillaume-gomez/Rough-JS-x-Phaser/blob/master/preview-phaser.png?raw=true" />
+<img alt="example of random crosses" src="https://github.com/user-attachments/assets/7c1d2cb0-7628-41ab-b2c1-e83b6b150164" />
+<img alt="animate-name" href="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
+
+
 <table>
+    <tr>
+        <td>
+           <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />
+        </td>
+        <td>
+            <img src="https://github.com/guillaume-gomez/shred-image/blob/main/previews/lalaland.png?raw=true" alt="shred-image" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+           <img alt="426102477-369ff84a-2efc-4375-9181-4adbbcda395b" src="https://github.com/user-attachments/assets/db550c9b-b99d-4253-9e9f-b706f1dd888c" alt="embodiment"/>
+        </td>
+        <td>
+            <img width="741" height="669" alt="Capture d’écran 2025-10-01 à 09 36 39" src="https://github.com/user-attachments/assets/4540d0b7-c489-4868-b9cc-8a0294c15a3d" />
+        </td>
+    </tr>
     <tr>
         <td>
            <img width="789" height="796" alt="daria" src="https://github.com/user-attachments/assets/374286ae-53d2-4fa3-9438-78507afc5c20" />
@@ -18,22 +48,8 @@
             <img width="741" height="669" alt="Capture d’écran 2025-10-01 à 09 36 39" src="https://github.com/user-attachments/assets/4540d0b7-c489-4868-b9cc-8a0294c15a3d" />
         </td>
     </tr>
+    
 </table>
-
-<img src="https://github.com/guillaume-gomez/layers/blob/main/Examples/pourcentageDePoint2.png?raw=true"  alt="anotherExample2"/>
-<img src="https://github.com/guillaume-gomez/to-pointillism/blob/main/samples/to-pointillism.jpeg?raw=true" width="50%" />
-<img src="https://github.com/guillaume-gomez/mondrian-verse/blob/main/example3d.png?raw=true" width="50%" />
-<img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" width="50%" />
-<img src="https://github.com/guillaume-gomez/shred-image/blob/main/previews/lalaland.png?raw=true" width="50%" />
-<img width="790" height="720" alt="426102477-369ff84a-2efc-4375-9181-4adbbcda395b" src="https://github.com/user-attachments/assets/db550c9b-b99d-4253-9e9f-b706f1dd888c" />
-<img src="https://github.com/guillaume-gomez/downWellCopycat/blob/master/preview.png?raw=true" width="50%" />
-<img width="332" height="512" alt="Capture d’écran 2026-04-18 à 15 32 20" src="https://github.com/user-attachments/assets/b67c607e-a4aa-4b71-90eb-ba11960da03f" />
-<img src="https://github.com/guillaume-gomez/woven-images/blob/main/examples/films/result2.jpeg?raw=true" />
-<img src="https://github.com/guillaume-gomez/Rough-JS-x-Phaser/blob/master/preview-phaser.png?raw=true" />
-<img width="549" height="499" alt="example of random crosses" src="https://github.com/user-attachments/assets/7c1d2cb0-7628-41ab-b2c1-e83b6b150164" />
-<img href="https://github.com/guillaume-gomez/AnimateName/blob/master/preview-animate-name.png?raw=true" />
-<img href="https://github.com/guillaume-gomez/MathGame/blob/master/resReadme/img-1.png?raw=true" />
-
 
 ## Beside, Profesionaly
 
