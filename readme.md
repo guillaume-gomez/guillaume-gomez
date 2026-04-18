@@ -13,6 +13,30 @@
 <table>
     <tr>
         <td width="50%">
+           <a href="../../../rubicks-image">
+            <video src="https://github.com/guillaume-gomez/rubiks-image/assets/5362875/02735bf6-f129-4991-bade-06047891f414?raw=true" alt="squared-words" autoplay />   
+           </a>
+        </td>
+        <td>
+            <a href="../../../MathGame">
+                <img src="https://github.com/guillaume-gomez/MathGame/blob/master/resReadme/IHateMath.gif?raw=true" alt="shred-image" />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+           <a href="../../../symphony-of-images">
+            <video src="https://github.com/user-attachments/assets/477b72d7-e21f-4d69-ab0a-e60e1c373c2c?raw=true" alt="squared-words" autoplay />  
+           </a>
+        </td>
+        <td>
+            <a href="../../../shred-images">
+                <video src="https://github.com/user-attachments/assets/aef0a48f-c259-46fb-93bb-3eece42bf34a?raw=true" alt="shred-images" autoplay />
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
            <a href="../../../squared_words">
             <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />   
            </a>
