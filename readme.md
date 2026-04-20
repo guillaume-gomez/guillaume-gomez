@@ -13,8 +13,9 @@
 <table>
     <tr>
         <td width="50%">
-           <a href="../../../rubicks-image">
-            <video src="https://github.com/guillaume-gomez/rubiks-image/assets/5362875/02735bf6-f129-4991-bade-06047891f414?raw=true" alt="squared-words" autoplay />   
+           <a href="../../../squared_words">
+            <!-- <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />  !-->
+            <img width="320" height="304" alt="squared-words" src="https://github.com/user-attachments/assets/b58fc1aa-8d18-4b81-b028-dd87e6f6379a" />
            </a>
         </td>
         <td>
@@ -37,8 +38,8 @@
     </tr>
     <tr>
         <td width="50%">
-           <a href="../../../squared_words">
-            <img src="https://github.com/guillaume-gomez/squared_words/blob/main/squared_words.png?raw=true" alt="squared-words" />   
+           <a href="../../../rubicks-image">
+            <video src="https://github.com/guillaume-gomez/rubiks-image/assets/5362875/02735bf6-f129-4991-bade-06047891f414?raw=true" alt="squared-words" autoplay />   
            </a>
         </td>
         <td>
