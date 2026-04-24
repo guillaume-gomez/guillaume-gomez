@@ -135,7 +135,7 @@
     
 </table>
 
-## Beside, Profesionaly
+## Beside, Profesionnaly
 
 ### :technologist: I'm currently working on:
 - An Ruby on Rails monolith with both Rest and Graphql API (and bunch of react)
