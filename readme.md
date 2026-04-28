@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Full+Stack+developper;Tech+Lead;Video+Game+Programmer+Enthusiast&width=500&height=50""></a>
 </p>
 
-## I spend my spare time to try to make art with lines of code
+## I spend my spare time trying to make art with lines of code
 
 <table>
     <tr>
