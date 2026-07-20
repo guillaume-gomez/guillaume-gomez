@@ -122,7 +122,7 @@
     </tr>
     <tr>
         <td>
-            <a href="../../../random-crosses">
+            <a href="../../../randomCrosses">
                <img alt="example of random crosses" src="https://github.com/user-attachments/assets/7c1d2cb0-7628-41ab-b2c1-e83b6b150164" />
             </a>
         </td>
