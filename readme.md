@@ -55,7 +55,7 @@
            </a>
         </td>
         <td>
-            <a href="../../../mozaic-size">
+            <a href="../../../mozaic-ize">
                 <img width="741" height="669" alt="Capture d’écran 2025-10-01 à 09 36 39" src="https://github.com/user-attachments/assets/4540d0b7-c489-4868-b9cc-8a0294c15a3d" />
             </a>
         </td>
